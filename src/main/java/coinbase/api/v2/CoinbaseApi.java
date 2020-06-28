@@ -114,3 +114,4 @@ public class CoinbaseApi {
 	}
     
 }
+CoinbaseAuthenticationBearer auth = new CoinbaseAuthenticationApiKey("{MY_COINBASE_API_KEY}");
